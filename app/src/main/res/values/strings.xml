@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PresentationForm</string>
+    <string name="question">qwertyuioiuytrews</string>
+    <string name="no">no</string>
+    <string name="yes">yes</string>
+    <string name="work">Trabajo en casa:</string>
+    <string name="pass">Voy a aprobar:</string>
+    <string name="workAnswer">workAnswer</string>
+    <string name="have">Tengo:</string>
+    <string name="passAnswer">passAnswer</string>
+    <string name="age">Edad</string>
+    <string name="workYes">SI trabajo en casa</string>
+    <string name="workNo">NO trabajo en casa</string>
+    <string name="passYes">SI voy aprobar</string>
+    <string name="passNo">NO voy aprobar</string>
+</resources>
